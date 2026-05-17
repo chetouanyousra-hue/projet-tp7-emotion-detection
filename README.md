@@ -1,5 +1,8 @@
 # TP7 - Détection d'émotions et suivi du regard en temps réel
 
+## Démonstration
+![Démonstration du système](demo.png)
+
 ## Description
 Système complet de détection d'émotions faciales et de suivi
 du regard en temps réel développé dans le cadre du module
