@@ -4,7 +4,7 @@
 Système complet de détection d'émotions faciales et de suivi
 du regard en temps réel développé dans le cadre du module
 Introduction à l'Intelligence Artificielle.
-École Supérieure de la Technologie, Tétouan - 2024-2025
+École Supérieure de la Technologie, Tétouan - 2025-2026
 Prof. Faouzi Marzouki
 
 ## Technologies
